@@ -1,6 +1,9 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 
+// tut
+// https://scotch.io/tutorials/easily-deploy-a-fullstack-nextjs-app-with-vercel#toc-api-routes
+
 export default function Home() {
   return (
     <div className={styles.container}>
